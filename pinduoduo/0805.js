@@ -1,4 +1,4 @@
-function get_anti(h) {
+function get_anti(1h) {
     var href = h;
     var f_rot = (function (t, n) {
         var r, e;
